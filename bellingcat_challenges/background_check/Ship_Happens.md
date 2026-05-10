@@ -9,9 +9,11 @@
 
 ## 🛠 Méthodologie
 1.  **Analyse d'image** :
+
 J'ai dans un premier temps fait une recherche d'image inversée, en utilisant Google Lens, sur un élément intéressant : Le chameau.
 Je peux voir qu'il est sur un tapis rouge, au milieu de ce que je suppose être une salle d'embarquement.
 Je trouve donc sur Google Lens plusieurs éléments interessants :
+
 <img width="485" height="525" alt="Capture d’écran 2026-05-10 à 17 01 21" src="https://github.com/user-attachments/assets/da421340-a34c-4d8c-8db7-b9bc195d3c8b" />
 <img width="489" height="515" alt="Capture d’écran 2026-05-10 à 17 00 23" src="https://github.com/user-attachments/assets/57f646b8-5067-485f-8fc2-c6be5d4a4f91" />
 <img width="497" height="523" alt="Capture d’écran 2026-05-10 à 17 00 00" src="https://github.com/user-attachments/assets/65cfb2ee-b0f6-4acd-b435-6c61786c5c9e" />
